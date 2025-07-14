@@ -8,8 +8,15 @@ Feel free to check out my projects and get in touch!
 
 ---
 
-## 🚀 Tech Stack
+## 📰 WordPress & CMS
 
+I also have experience using **WordPress** to build custom websites locally via **XAMPP**. I’ve worked on customizing themes, adding plugins, and modifying layout components. 
+
+Although I don't currently host my WordPress projects online, I can provide code samples or walkthrough videos upon request.
+
+---
+
+## 🚀 Tech Stack
 
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
@@ -21,4 +28,9 @@ Feel free to check out my projects and get in touch!
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
     <img alt="JavaScript Badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000&style=for-the-badge" />
   </a>
+  <a href="https://wordpress.org/" target="_blank" rel="noopener noreferrer">
+    <img alt="WordPress Badge" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=ffffff&style=for-the-badge" />
+  </a>
 </p>
+
+
