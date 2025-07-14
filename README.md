@@ -12,7 +12,7 @@ Feel free to check out my projects and get in touch!
 
 I also have experience using **WordPress** to build custom websites locally via **XAMPP**. I’ve worked on customizing themes, adding plugins, and modifying layout components. 
 
-Although I don't currently host my WordPress projects online, I can provide code samples or walkthrough videos upon request.
+Although I don't currently host my WordPress projects online. Beacuse I don't have hosting
 
 ---
 
