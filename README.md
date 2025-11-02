@@ -1,6 +1,6 @@
 ## About Me
 
-Hi! I'm Kerem Yalçın, a passionate web developer focused on building clean and responsive websites using **HTML**, **CSS**, and **JavaScript**. I love learning new technologies and improving my skills every day.
+Hi! I'm Kerem Yalçın, a passionate web developer focused on building clean and responsive websites using **HTML**, **CSS**, **JavaScript**, and **React**. I love learning new technologies and improving my skills every day.
 
 Currently, I'm working on personal projects to strengthen my coding abilities and aiming to contribute to open-source communities.
 
@@ -27,6 +27,9 @@ Although I don't currently host my WordPress projects online. Beacuse I don't ha
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
     <img alt="JavaScript Badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000&style=for-the-badge" />
+  </a>
+   <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
+    <img alt="React Badge" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=ffffff&style=for-the-badge" />
   </a>
   <a href="https://wordpress.org/" target="_blank" rel="noopener noreferrer">
     <img alt="WordPress Badge" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=ffffff&style=for-the-badge" />
